@@ -1,0 +1,11 @@
+C:\VoceAluga\Locad\Locad\bin\Debug\Locad.exe.config
+C:\VoceAluga\Locad\Locad\bin\Debug\Locad.exe
+C:\VoceAluga\Locad\Locad\bin\Debug\Locad.pdb
+C:\VoceAluga\Locad\Locad\bin\Debug\Locad.xml
+C:\VoceAluga\Locad\Locad\obj\x86\Debug\Locad.Form1.resources
+C:\VoceAluga\Locad\Locad\obj\x86\Debug\Locad.Resources.resources
+C:\VoceAluga\Locad\Locad\obj\x86\Debug\Locad.vbproj.GenerateResource.Cache
+C:\VoceAluga\Locad\Locad\obj\x86\Debug\Locad.exe
+C:\VoceAluga\Locad\Locad\obj\x86\Debug\Locad.xml
+C:\VoceAluga\Locad\Locad\obj\x86\Debug\Locad.pdb
+C:\VoceAluga\Locad\Locad\obj\x86\Debug\Locad.Form2.resources
